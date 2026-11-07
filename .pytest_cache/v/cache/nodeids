@@ -1,0 +1,8 @@
+[
+  "tests/test_inventory.py::TestInventory::test_add_backpack_to_cart",
+  "tests/test_inventory.py::TestInventory::test_back_to_login_page",
+  "tests/test_inventory.py::TestInventory::test_logout",
+  "tests/test_login.py::TestLogin::test_login_negative_empty_password",
+  "tests/test_login.py::TestLogin::test_login_negative_locked_out_user",
+  "tests/test_login.py::TestLogin::test_login_positive_valid_user"
+]

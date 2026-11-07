@@ -1,0 +1,3 @@
+{
+  "tests/test_inventory.py::TestInventory::test_logout": true
+}
